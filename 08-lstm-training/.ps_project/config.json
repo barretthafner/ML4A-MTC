@@ -1,0 +1,7 @@
+{
+  "project": "lstm-training",
+  "machineType": "K80",
+  "container": "tensorflow/tensorflow:1.0.0-gpu-py3",
+  "command": "bash run.sh",
+  "lastJobId": "jskll5bfhtxy9f"
+}
